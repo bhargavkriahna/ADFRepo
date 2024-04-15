@@ -1,0 +1,9 @@
+{
+	"name": "adftoolbhargav",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15107024-4015-41e1-96b8-56d66730f994",
+		"tenantId": "1e4ee8a4-b0c8-4441-9578-7b73d2cf112d"
+	}
+}

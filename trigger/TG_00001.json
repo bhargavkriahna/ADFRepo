@@ -1,0 +1,17 @@
+{
+	"name": "TG_00001",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 2,
+				"startTime": "2024-04-10T13:55:00",
+				"timeZone": "Eastern Standard Time"
+			}
+		}
+	}
+}
